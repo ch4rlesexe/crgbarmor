@@ -1,0 +1,43 @@
+# If you need support please contact me on discord ( ch4rles.exe )
+
+special_armor:
+  rainbow_armor:
+    name: "Rainbow Armor"
+    speed: 3
+    unbreakable: false
+    color_sequence:
+      - 255,0,0
+      - 255,127,0
+      - 255,255,0
+      - 0,255,0
+      - 0,0,255
+      - 75,0,130
+      - 148,0,211
+    armor_pieces:
+      - helmet
+      - chestplate
+      - leggings
+      - boots
+    glow:
+      helmet: true
+      chestplate: false
+      leggings: false
+      boots: true
+
+  oceanic_armor:
+    name: "Oceanic Armor"
+    speed: 3
+    unbreakable: false
+    color_sequence:
+      - 0,105,148
+      - 0,168,243
+      - 50,184,242
+      - 0,121,180
+    armor_pieces:
+      - chestplate
+      - boots
+    glow:
+      helmet: true
+      chestplate: false
+      leggings: false
+      boots: true

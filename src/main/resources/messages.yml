@@ -1,0 +1,7 @@
+no_permission: "&cYou do not have permission to execute this command."
+reload_success: "&aCRGBArmor configuration reloaded."
+invalid_usage: "&cUsage: /crgbarmor give (armor_type) (armor_piece) (username) or /crgbarmor reload"
+player_not_found: "&cPlayer not found!"
+armor_type_not_found: "&cArmor type not found!"
+invalid_armor_piece: "&cInvalid armor piece for this type! Use helmet, chestplate, leggings, or boots."
+armor_given: "&aGave %armor_piece% of %armor_name% to %player%!"

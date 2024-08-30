@@ -1,0 +1,14 @@
+name: CRGBArmor
+version: '1.0'
+main: org.charlie.cRGBArmor.CRGBArmor
+api-version: '1.21'
+commands:
+  crgbarmor:
+    description: Manage CRGBArmor plugin.
+permissions:
+  crgbarmor.reload:
+    description: Allows the player to reload the CRGBArmor plugin.
+    default: op
+  crgbarmor.admin:
+    description: Allows the player to execute CRGBArmor commands.
+    default: op
